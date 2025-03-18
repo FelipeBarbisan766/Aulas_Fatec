@@ -18,6 +18,14 @@
 //* append(nome do Slice, valor a ser adicionado)
 //? append(filmes, "filme1")
 // --------------------------------------------
+//! Tipo Map
+//? Conceito de array associativo (dicionário, hash, hash map)
+//* ex1:
+//? 	animal := map[string]string{
+//? 		"nome": "Rex",
+//? 		"tipo": "Cachorro",
+//? 		"cor": "Preto"
+//? 	}
 package main
 
 import "fmt"
@@ -35,5 +43,18 @@ func main() {
 	//* for
 	for i := 0; i < len(mySlice); i++ {
 		fmt.Printf("Indice: %v com valor %v \n", i, mySlice[i])
+	}
+	//* short for
+	for index, value := range mySlice {
+		fmt.Printf("Indice: %v com valor %v \n", index, value)
+	}
+	//* map
+	animals := map[string]string{
+		"nome": "Rex",
+		"tipo": "Cachorro",
+		"cor": "Preto",
+	}
+	for char, avalue := range animals {
+		fmt.Printf("chave: %v com valor %v \n", char, avalue)
 	}
 }
