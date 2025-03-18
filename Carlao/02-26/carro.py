@@ -41,6 +41,7 @@ class Moto(Veiculo):
 def exibir_informacoes(veiculo):
     veiculo.exibir_informacoes()
        
+       
 # Instanciando um objeto da classe Carro
 fusca = Carro(4 ,"Volkswagen", "Fusca", 1970, 1023123)
 exibir_informacoes(fusca)
