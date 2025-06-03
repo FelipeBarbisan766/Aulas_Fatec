@@ -1,0 +1,15 @@
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\bin\Debug\net9.0\CleanCodeAMS.exe
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\bin\Debug\net9.0\CleanCodeAMS.deps.json
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\bin\Debug\net9.0\CleanCodeAMS.runtimeconfig.json
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\bin\Debug\net9.0\CleanCodeAMS.dll
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\bin\Debug\net9.0\CleanCodeAMS.pdb
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.AssemblyInfoInputs.cache
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.AssemblyInfo.cs
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.csproj.CoreCompileInputs.cache
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.sourcelink.json
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.dll
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\refint\CleanCodeAMS.dll
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.pdb
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\CleanCodeAMS.genruntimeconfig.cache
+C:\Aulas_Fatec\Jeff\CleanCodeAMS\obj\Debug\net9.0\ref\CleanCodeAMS.dll
