@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn">Soma</button>
+    <p id="resultado">oi</p>
+    <br>
+    <button id="btn2">Parar de somar</button>
+
+    <script>
+        var p1=5;
+        var p2=10;
+        var funcao = function (){
+            soma(p1,p2);
+        };
+        document.getElementById('btn').addEventListener("click",funcao);
+
+        function soma(a,b){
+            document.getElementById('resultado').innerHTML=a+b;
+        }
+        document.getElementById('btn2').addEventListener("click",parar_somar);
+        function parar_somar(){
+            document.getElementById('btn').removeEventListener("click",funcao);
+        }
+    </script>
+</body>
+</html>

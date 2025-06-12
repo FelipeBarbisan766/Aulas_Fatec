@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="teste">Iniciando o DOM</h1>
+    <p class="teste">Testando os elementos por classe</p>
+    <p>Acessando o segundo paragrafo pelo metodo tagname</p>
+    <p id="data"></p>
+    <img id="imagem" src="google.png">
+    <a id="link" href="https://www.google.com.br">Clique para acessar o google</a>
+
+    <script>
+     // document.getElementById('titulo').style.backgroundColor="red";
+     // document.getElementById('titulo').innerHTML="Aprendendo a usar o DOM";
+     // document.getElementsByTagName('p')[0].innerHTML="Conseguimos";
+     // document.getElementsByClassName('teste')[1].innerHTML='OI'
+     document.getElementById('imagem').src='fatec.png';
+     document.getElementById('link').href='https://www.encurtador.com.br/';
+     document.getElementById('link').innerHTML='Clique aqui';
+     document.getElementById('link').style.color="red";
+     function mudacorfundo(){
+        document.body.style.backgroundColor="black";
+     }
+    </script>
+    <button onclick="mudacorfrindo()">Muda Cor</button>
+   
+</body>
+</html>

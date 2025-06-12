@@ -2,14 +2,23 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io"
 	"os"
 )
 func main(){
-
+	 var pass Passager
+	 listaPassageiros, err := GetJsonFile("titanic.json", pass)
+	 if err != nil {
+		fmt.Println("Error reading JSON file:", err)
+	 }
+	 for _, viajante := range listaPassageiros {
+		fmt.Println(viajante.Name)
+	 }
 }
 type Passager struct{
-	name int 
+	PassagerId float32 `json:"PassagerId"`
+	Name string `json:"Name"`
 }
 func GetJsonFile(filepath string, jStorw Passager) ([]Passager, error) {
 	var arrStru []Passager

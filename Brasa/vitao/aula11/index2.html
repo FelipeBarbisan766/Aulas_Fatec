@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="vermelho">Vermelho</button>
+    <br>
+    <button id="amarelo">Amarelo</button>
+
+    <script>
+        document.getElementById('vermelho').addEventListener("click",mudar_vermelho);
+        document.getElementById('amarelo').addEventListener("click",mudar_amarelo);
+
+        function mudar_vermelho(){
+            document.getElementById('corpo').style.backgroundColor="red";
+        }
+        function mudar_amarelo(){
+            document.getElementById('corpo').style.backgroundColor="red";
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|c:\\aulas_fatec\\jeff\\classofauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|c:\\aulas_fatec\\jeff\\classofauth\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|solutionrelative:service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|c:\\aulas_fatec\\jeff\\classofauth\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|c:\\aulas_fatec\\jeff\\classofauth\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA91C251-0EA0-4139-BC7D-B51A832BD424}|ClassOfAuth.csproj|solutionrelative:data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T14:23:48.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:51:07.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\Service\\JWTService.cs",
+              "RelativeDocumentMoniker": "Service\\JWTService.cs",
+              "ToolTip": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\Service\\JWTService.cs",
+              "RelativeToolTip": "Service\\JWTService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:49:12.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Aulas_Fatec\\Jeff\\ClassOfAuth\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:03:49.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

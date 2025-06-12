@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body id="corpo">
+    <button id="vermelho">Vermelho</button>
+    <button id="amarelo">Amarelo</button>
+    <button id="cinza">Cinza</button>
+
+    <script>
+        document.getElementById('vermelho').addEventListener("click", mudar_varmelho)
+        document.getElementById('amarelo').addEventListener("click", mudar_amarelo)
+        document.getElementById('ciza').addEventListener("click", mudar_cinza)
+
+        function mudar_varmelho(){
+            document.getElementById('corpo').style.backgroundColor="red"
+        }
+        function mudar_amarelo(){
+            document.getElementById('corpo').style.backgroundColor=""
+        }
+        function mudar_cinza(){
+            document.getElementById('corpo').style.backgroundColor=""
+        }
+
+
+
+    </script>
+    
+</body>
+</html>

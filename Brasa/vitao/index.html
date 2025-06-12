@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="folha.css">
+</head>
+<body>
+    <div id="teste" onmouseover="movimentar(this)"> </div>
+  
+    <script>
+        var indo = true;
+        function movimentar(obj){
+            if(indo==true){
+                obj.className = "ballindo";
+                indo = false;
+            }
+            else{
+                obj.className = "ballvoltando";
+                indo = true;
+            }
+        }                                                                                                                                                                                                                                                                                                                                                                
+    </script>
+</body>
+</html>  

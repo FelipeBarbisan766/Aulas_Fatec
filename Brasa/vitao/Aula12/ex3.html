@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="somar">Somar</button>
+    <button id="parar">Parar</button>
+    <script>
+
+        var a = Number(window.prompt("Digite o primeiro valor"))
+        var b = Number(window.prompt("Digite o segundo valor"))
+
+        var funcao = function(){
+            soma(a,b)
+        }
+
+        function soma(p1,p2){
+            return p1 + p2
+        }
+        
+        document.getElementById('somar').addEventListener("click", funcao)
+        document.getElementById('parar').addEventListener("click", parar())
+
+        function parar(){
+            document.getElementById('parar').removeEventListener("click", funcao)
+        }
+
+
+
+    </script>
+</body>
+</html>
