@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanCodeAMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaf23c9c7024ee4a5cdf2afe00ea1bd7f0268c8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c346c0665ca3d32a9cd0d37e79e449d493642113")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanCodeAMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanCodeAMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
